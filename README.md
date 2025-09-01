@@ -25,10 +25,19 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DarkMatter&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMatter&layout=compact&theme=tokyonight" alt="langs" height="165"/>
-</p>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DarkMetter-Samuel&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMetter-Samuel&layout=compact&theme=tokyonight&langs_count=8"
+    alt="Top languages"
+    height="165"
+  />
+</div>
 
 ---
 
