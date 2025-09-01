@@ -1,22 +1,25 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o DarkMatter 🌌</h1>
+<h1 align="center">👋 Olá, eu sou o Samuel Juan 🌌 // @DarkMetter-Samuel</h1>
 <p align="center">
-  <i>"Explorando o universo do código e criando novas galáxias digitais"</i>
+  <i>"✨ Explorando o novas ideais de código e criando novos Desings 🌌"</i>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
-- 💻 Desenvolvedor focado em **React Native, Expo e TailwindCSS**  
-- 🌱 Atualmente estudando **backend (Node.js & APIs)**  
+
+- 👨‍💻 Desenvolvedor Frontend
+- 💻 Desenvolvedor focado em **React Native, Expo e TailwindCSS**
+- 🎨 Apaixonado por **UI/UX Design**, prototipagem e identidade visual 
+- 🌱 Atualmente estudando **backend (Node.js & APIs) e TailwindCSS**  
 - 🎯 Objetivo: construir apps e sistemas modernos e intuitivos  
-- 🌌 Apaixonado por **design minimalista + performance**  
+- 🌌 Apaixonado por **design minimalista + performance**  ou **design complexos + animações modernas**
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,html,css,git,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=js,php,react,next,tailwind,html,css,git,nodejs" />
 </p>
 
 ---
