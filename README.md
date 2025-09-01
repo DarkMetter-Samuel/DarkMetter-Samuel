@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-- 👨‍💻 Desenvolvedor Frontend
+- 👨‍💻 Desenvolvedor Frontend (Meio Desenvolvedor "**FullStack**")
 - 💻 Desenvolvedor focado em **React Native, Expo e TailwindCSS**
 - 🎨 Apaixonado por **UI/UX Design**, prototipagem e identidade visual 
 - 🌱 Atualmente estudando **backend (Node.js & APIs) e TailwindCSS**  
