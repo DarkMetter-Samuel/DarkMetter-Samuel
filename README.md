@@ -1,5 +1,5 @@
 <!-- Banner ou saudação -->
-<h1 align="center">👋 Olá, eu sou o Samuel Juan 🌌 // @DarkMetter-Samuel</h1>
+<h1 align="center">👋 Olá, eu sou o Samuel Juan 🌌 // @Sammy-front</h1>
 <p align="center">
   <i>"✨ Explorando o novas ideais de código e criando novos Desings 🌌"</i>
 </p>
