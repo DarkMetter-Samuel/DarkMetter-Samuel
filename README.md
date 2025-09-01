@@ -12,7 +12,8 @@
 - 💻 Desenvolvedor focado em **React Native, Expo e TailwindCSS**
 - 🎨 Apaixonado por **UI/UX Design**, prototipagem e identidade visual 
 - 🌱 Atualmente estudando **backend (Node.js & APIs) e TailwindCSS**  
-- 🎯 Objetivo: construir apps e sistemas modernos e intuitivos  
+- 🎯 Objetivo: construir apps e sistemas modernos e intuitivos
+- 🗄️ Sei um pouco sobre **Banco de Dados** utilizo o aplico **MySQL** nos meus projetos
 - 🌌 Apaixonado por **design minimalista + performance**  ou **design complexos + animações modernas**
 
 ---
@@ -20,7 +21,7 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,php,react,next,tailwind,html,css,git,nodejs" />
+  <img src="https://skillicons.dev/icons?i=js,php,react,next,tailwind,html,css,git,nodejs,mysql" />
 </p>
 
 ---
