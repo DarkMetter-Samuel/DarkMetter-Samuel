@@ -31,12 +31,12 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DarkMetter-Samuel&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=Sammy-front&show_icons=true&theme=tokyonight"
     alt="GitHub stats"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarkMetter-Samuel&layout=compact&theme=tokyonight&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sammy-front&layout=compact&theme=tokyonight&langs_count=8"
     alt="Top languages"
     height="165"
   />
